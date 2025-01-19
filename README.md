@@ -1,6 +1,6 @@
 # Hianime - Anime Streaming Website
 
-![Hianime Banner](https://github.com/shubham-king/Hianime/public/ss.png)
+![Hianime Banner](public/ss.png)
 
 Welcome to **Hianime**, your one-stop destination for streaming your favorite anime series and movies! This website is built using **React** and leverages several libraries and APIs to provide a seamless anime streaming experience.
 
