@@ -44,3 +44,13 @@ If you want to set up **Hianime** locally on your machine, follow these steps:
 ```bash
 git clone https://github.com/shubham-king/Hianime.git
 cd Hianime
+```
+
+## Fork it and Give Stars 
+Nothing here , just reminder if you forked it then give stars and also the credits etc.....
+
+#### Credits 
+- Manjot [DEV]
+- Consumet [API]
+- Jikan [API]
+- Kitsu [API]
