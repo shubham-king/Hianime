@@ -27,6 +27,15 @@ Welcome to **Hianime**, your one-stop destination for streaming your favorite an
 - **Jikan REST API**: Retrieves anime information, including details about episodes, genres, and more.
 - **Kitsu API**: Provides additional data and information about anime titles.
 
+  ### Support the Project 💖
+
+If you like this project and want to support its development, consider donating!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-009cde?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)  
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-171515?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/shubham-king)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+
+
 ## Demo
 
 Check out the live demo of **Hianime** [here](https://1xanimes.org).
